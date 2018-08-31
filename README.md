@@ -34,7 +34,7 @@ Export your 12 word mnemonic phrase to an environment variable named `ETH_MNEMON
 
 If you don't have a 12 word phrase, check out [https://iancoleman.io/bip39/](https://iancoleman.io/bip39/) where you can generate one.
 
-Example:
+Example (12 word phrase generated from iancoleman.io/bip39 for this README only):
 
 - `export ETH_MNEMONIC=ship wear gaze oven zone vicious cost cruise blur disease brief amused`
 
