@@ -6,7 +6,7 @@ EOS BIP39 Public/Private Key Generator
 
 At the time of this writing, EOS does not yet support BIP39 Mnemonic phrase for keys generation.
 
-EOS BIP39 support is planned and upcoming, for now a workaround is to:
+EOS BIP39 support is planned and upcoming, (see [here](https://github.com/EOSIO/eos/issues/3816)), for now a workaround is to:
 
 1. Use a 12 word phrase to create Ethereum addresses
 2. Convert those ETH address to EOS addresses.
